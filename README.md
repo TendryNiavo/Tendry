@@ -6,4 +6,4 @@
 
 🔗 Join me on this tech journey, where every line of code is an opportunity to create something extraordinary!
 
-![Chilled Lamb Mienar GIF](https://media.tenor.com/your-gif-url-here.gif)
+![Chilled Lamb Mienar](./assets/chilled-lamb-mienar.gif)
