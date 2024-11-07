@@ -1,4 +1,6 @@
-# 👨‍💻 **Passionate Web Developer | Student @ 42 Antananarivo**
+# 👋 Hello, I am Tendry
+
+👨‍💻 **Passionate Web Developer | Student @ 42 Antananarivo**
 
 🚀 Crafting modern and high-performance web experiences, with a love for clean code and continuous innovation.  
 💡 Always seeking new challenges, I dive into projects that push my technical boundaries and fuel my creativity.  
